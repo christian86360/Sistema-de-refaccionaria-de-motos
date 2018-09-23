@@ -1,0 +1,74 @@
+c:\users\lugomaroquin\documents\visual studio 2015\Projects\RefaccionesSuzuki\RefaccionesSuzuki\bin\Debug\RefaccionesSuzuki.exe.config
+c:\users\lugomaroquin\documents\visual studio 2015\Projects\RefaccionesSuzuki\RefaccionesSuzuki\obj\Debug\RefaccionesSuzuki.vbprojResolveAssemblyReference.cache
+c:\users\lugomaroquin\documents\visual studio 2015\Projects\RefaccionesSuzuki\RefaccionesSuzuki\obj\Debug\RefaccionesSuzuki.Resources.resources
+c:\users\lugomaroquin\documents\visual studio 2015\Projects\RefaccionesSuzuki\RefaccionesSuzuki\obj\Debug\RefaccionesSuzuki.formularioUsuarios.resources
+c:\users\lugomaroquin\documents\visual studio 2015\Projects\RefaccionesSuzuki\RefaccionesSuzuki\obj\Debug\RefaccionesSuzuki.vbproj.GenerateResource.Cache
+c:\users\lugomaroquin\documents\visual studio 2015\Projects\RefaccionesSuzuki\RefaccionesSuzuki\obj\Debug\RefaccionesSuzuki.xml
+c:\users\lugomaroquin\documents\visual studio 2015\Projects\RefaccionesSuzuki\RefaccionesSuzuki\bin\Debug\RefaccionesSuzuki.exe
+c:\users\lugomaroquin\documents\visual studio 2015\Projects\RefaccionesSuzuki\RefaccionesSuzuki\bin\Debug\RefaccionesSuzuki.pdb
+c:\users\lugomaroquin\documents\visual studio 2015\Projects\RefaccionesSuzuki\RefaccionesSuzuki\bin\Debug\RefaccionesSuzuki.xml
+c:\users\lugomaroquin\documents\visual studio 2015\Projects\RefaccionesSuzuki\RefaccionesSuzuki\obj\Debug\RefaccionesSuzuki.exe
+c:\users\lugomaroquin\documents\visual studio 2015\Projects\RefaccionesSuzuki\RefaccionesSuzuki\obj\Debug\RefaccionesSuzuki.pdb
+C:\Users\LugoMaroquin\Documents\Visual Studio 2015\Projects\RefaccionesSuzuki\RefaccionesSuzuki\obj\Debug\RefaccionesSuzuki.frmcategoria.resources
+C:\Users\LugoMaroquin\Documents\Visual Studio 2015\Projects\RefaccionesSuzuki\RefaccionesSuzuki\obj\Debug\RefaccionesSuzuki.frmrefacciones.resources
+C:\Users\LugoMaroquin\Documents\Visual Studio 2015\Projects\RefaccionesSuzuki\RefaccionesSuzuki\obj\Debug\RefaccionesSuzuki.frmalmacen.resources
+C:\Users\LugoMaroquin\Documents\Visual Studio 2015\Projects\RefaccionesSuzuki\RefaccionesSuzuki\obj\Debug\RefaccionesSuzuki.frmcliente.resources
+C:\Users\LugoMaroquin\Documents\Visual Studio 2015\Projects\RefaccionesSuzuki\RefaccionesSuzuki\obj\Debug\RefaccionesSuzuki.frmdireccioneEmp.resources
+C:\Users\LugoMaroquin\Documents\Visual Studio 2015\Projects\RefaccionesSuzuki\RefaccionesSuzuki\obj\Debug\RefaccionesSuzuki.frmdirecciones.resources
+C:\Users\LugoMaroquin\Documents\Visual Studio 2015\Projects\RefaccionesSuzuki\RefaccionesSuzuki\obj\Debug\RefaccionesSuzuki.frmempleado.resources
+C:\Users\LugoMaroquin\Documents\Visual Studio 2015\Projects\RefaccionesSuzuki\RefaccionesSuzuki\obj\Debug\RefaccionesSuzuki.frmnotacantidad.resources
+C:\Users\LugoMaroquin\Documents\Visual Studio 2015\Projects\RefaccionesSuzuki\RefaccionesSuzuki\obj\Debug\RefaccionesSuzuki.frmventa.resources
+C:\Users\LugoMaroquin\Documents\Visual Studio 2015\Projects\RefaccionesSuzuki\RefaccionesSuzuki\obj\Debug\RefaccionesSuzuki.InicioRefacciones.resources
+C:\Users\LugoMaroquin\Documents\Visual Studio 2015\Projects\RefaccionesSuzuki\RefaccionesSuzuki\obj\Debug\RefaccionesSuzuki.frmdireccionEm.resources
+C:\Users\LugoMaroquin\Documents\Visual Studio 2015\Projects\RefaccionesSuzuki\RefaccionesSuzuki\obj\Debug\RefaccionesSuzuki.MetododeOrdenamiento.resources
+C:\Users\LugoMaroquin\Documents\Visual Studio 2015\Projects\RefaccionesSuzuki\RefaccionesSuzuki\obj\Debug\RefaccionesSuzuki.Carga.resources
+C:\Users\LugoMaroquin\Documents\Visual Studio 2015\Projects\RefaccionesSuzuki\RefaccionesSuzuki\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\LugoMaroquin\Documents\Visual Studio 2015\Projects\RefaccionesSuzuki\RefaccionesSuzuki\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\LugoMaroquin\Documents\Visual Studio 2015\Projects\RefaccionesSuzuki\RefaccionesSuzuki\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LugoMaroquin\Documents\Visual Studio 2015\Projects\RefaccionesSuzuki\RefaccionesSuzuki\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\LugoMaroquin\Documents\Visual Studio 2015\Projects\RefaccionesSuzuki\RefaccionesSuzuki\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\LugoMaroquin\Documents\Visual Studio 2015\Projects\RefaccionesSuzuki\RefaccionesSuzuki\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\LugoMaroquin\Documents\Visual Studio 2015\Projects\RefaccionesSuzuki\RefaccionesSuzuki\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\LugoMaroquin\Documents\Visual Studio 2015\Projects\RefaccionesSuzuki\RefaccionesSuzuki\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\LugoMaroquin\Documents\Visual Studio 2015\Projects\RefaccionesSuzuki\RefaccionesSuzuki\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\LugoMaroquin\Documents\Visual Studio 2015\Projects\RefaccionesSuzuki\RefaccionesSuzuki\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\LugoMaroquin\Documents\Visual Studio 2015\Projects\RefaccionesSuzuki\RefaccionesSuzuki\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\LugoMaroquin\Documents\Visual Studio 2015\Projects\RefaccionesSuzuki\RefaccionesSuzuki\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\LugoMaroquin\Documents\Visual Studio 2015\Projects\RefaccionesSuzuki\RefaccionesSuzuki\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\LugoMaroquin\Documents\Visual Studio 2015\Projects\RefaccionesSuzuki\RefaccionesSuzuki\obj\Debug\RefaccionesSuzuki.frmreporteC.resources
+C:\Users\LugoMaroquin\Documents\Visual Studio 2015\Projects\RefaccionesSuzuki\RefaccionesSuzuki\obj\Debug\RdlCompile.cache
+C:\Users\LugoMaroquin\Documents\Visual Studio 2015\Projects\RefaccionesSuzuki\RefaccionesSuzuki\obj\Debug\RdlCompile.compiled
+C:\Users\LugoMaroquin\Documents\Visual Studio 2015\Projects\RefaccionesSuzuki\RefaccionesSuzuki\obj\Debug\RefaccionesSuzuki.Form1.resources
+C:\Users\LugoMaroquin\Documents\Visual Studio 2015\Projects\RefaccionesSuzuki\RefaccionesSuzuki\bin\Debug\RefaccionesSuzuki.exe.manifest
+C:\Users\LugoMaroquin\Documents\Visual Studio 2015\Projects\RefaccionesSuzuki\RefaccionesSuzuki\bin\Debug\RefaccionesSuzuki.application
+C:\Users\LugoMaroquin\Documents\Visual Studio 2015\Projects\RefaccionesSuzuki\RefaccionesSuzuki\obj\Debug\RefaccionesSuzuki.exe.manifest
+C:\Users\LugoMaroquin\Documents\Visual Studio 2015\Projects\RefaccionesSuzuki\RefaccionesSuzuki\obj\Debug\RefaccionesSuzuki.application
+B:\Programas en Visual.net\RefaccionesSuzuki\RefaccionesSuzuki\bin\Debug\RefaccionesSuzuki.exe.config
+B:\Programas en Visual.net\RefaccionesSuzuki\RefaccionesSuzuki\obj\Debug\RefaccionesSuzuki.exe
+B:\Programas en Visual.net\RefaccionesSuzuki\RefaccionesSuzuki\obj\Debug\RefaccionesSuzuki.xml
+B:\Programas en Visual.net\RefaccionesSuzuki\RefaccionesSuzuki\obj\Debug\RefaccionesSuzuki.pdb
+B:\Partición Existente(NTFS)\Programas en Visual.net\RefaccionesSuzuki\RefaccionesSuzuki\bin\Debug\RefaccionesSuzuki.exe.config
+B:\Partición Existente(NTFS)\Programas en Visual.net\RefaccionesSuzuki\RefaccionesSuzuki\obj\Debug\RefaccionesSuzuki.exe
+B:\Partición Existente(NTFS)\Programas en Visual.net\RefaccionesSuzuki\RefaccionesSuzuki\obj\Debug\RefaccionesSuzuki.xml
+B:\Partición Existente(NTFS)\Programas en Visual.net\RefaccionesSuzuki\RefaccionesSuzuki\obj\Debug\RefaccionesSuzuki.pdb
+B:\Partición Existente(NTFS)\Programas en Visual.net\RefaccionesSuzuki\RefaccionesSuzuki\obj\Debug\RefaccionesSuzuki.vbprojResolveAssemblyReference.cache
+B:\Partición Existente(NTFS)\Programas en Visual.net\RefaccionesSuzuki\RefaccionesSuzuki\obj\Debug\RefaccionesSuzuki.Resources.resources
+B:\Partición Existente(NTFS)\Programas en Visual.net\RefaccionesSuzuki\RefaccionesSuzuki\obj\Debug\RefaccionesSuzuki.frmreporteC.resources
+B:\Partición Existente(NTFS)\Programas en Visual.net\RefaccionesSuzuki\RefaccionesSuzuki\obj\Debug\RefaccionesSuzuki.Carga.resources
+B:\Partición Existente(NTFS)\Programas en Visual.net\RefaccionesSuzuki\RefaccionesSuzuki\obj\Debug\RefaccionesSuzuki.Form1.resources
+B:\Partición Existente(NTFS)\Programas en Visual.net\RefaccionesSuzuki\RefaccionesSuzuki\obj\Debug\RefaccionesSuzuki.formularioUsuarios.resources
+B:\Partición Existente(NTFS)\Programas en Visual.net\RefaccionesSuzuki\RefaccionesSuzuki\obj\Debug\RefaccionesSuzuki.frmalmacen.resources
+B:\Partición Existente(NTFS)\Programas en Visual.net\RefaccionesSuzuki\RefaccionesSuzuki\obj\Debug\RefaccionesSuzuki.frmcategoria.resources
+B:\Partición Existente(NTFS)\Programas en Visual.net\RefaccionesSuzuki\RefaccionesSuzuki\obj\Debug\RefaccionesSuzuki.frmcliente.resources
+B:\Partición Existente(NTFS)\Programas en Visual.net\RefaccionesSuzuki\RefaccionesSuzuki\obj\Debug\RefaccionesSuzuki.frmdireccioneEmp.resources
+B:\Partición Existente(NTFS)\Programas en Visual.net\RefaccionesSuzuki\RefaccionesSuzuki\obj\Debug\RefaccionesSuzuki.frmdireccionEm.resources
+B:\Partición Existente(NTFS)\Programas en Visual.net\RefaccionesSuzuki\RefaccionesSuzuki\obj\Debug\RefaccionesSuzuki.frmdirecciones.resources
+B:\Partición Existente(NTFS)\Programas en Visual.net\RefaccionesSuzuki\RefaccionesSuzuki\obj\Debug\RefaccionesSuzuki.frmempleado.resources
+B:\Partición Existente(NTFS)\Programas en Visual.net\RefaccionesSuzuki\RefaccionesSuzuki\obj\Debug\RefaccionesSuzuki.frmnotacantidad.resources
+B:\Partición Existente(NTFS)\Programas en Visual.net\RefaccionesSuzuki\RefaccionesSuzuki\obj\Debug\RefaccionesSuzuki.frmrefacciones.resources
+B:\Partición Existente(NTFS)\Programas en Visual.net\RefaccionesSuzuki\RefaccionesSuzuki\obj\Debug\RefaccionesSuzuki.frmventa.resources
+B:\Partición Existente(NTFS)\Programas en Visual.net\RefaccionesSuzuki\RefaccionesSuzuki\obj\Debug\RefaccionesSuzuki.InicioRefacciones.resources
+B:\Partición Existente(NTFS)\Programas en Visual.net\RefaccionesSuzuki\RefaccionesSuzuki\obj\Debug\RefaccionesSuzuki.MetododeOrdenamiento.resources
+B:\Partición Existente(NTFS)\Programas en Visual.net\RefaccionesSuzuki\RefaccionesSuzuki\obj\Debug\RefaccionesSuzuki.vbproj.GenerateResource.Cache
+B:\Partición Existente(NTFS)\Programas en Visual.net\RefaccionesSuzuki\RefaccionesSuzuki\obj\Debug\RdlCompile.cache
+B:\Partición Existente(NTFS)\Programas en Visual.net\RefaccionesSuzuki\RefaccionesSuzuki\obj\Debug\RdlCompile.compiled

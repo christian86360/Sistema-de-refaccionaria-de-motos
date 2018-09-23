@@ -1,0 +1,651 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+RefaccionesSuzuki
+</name>
+</assembly>
+<members>
+<member name="T:RefaccionesSuzuki.My.Resources.Resources">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:RefaccionesSuzuki.My.Resources.Resources.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:RefaccionesSuzuki.My.Resources.Resources.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="P:RefaccionesSuzuki.My.Resources.Resources._1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RefaccionesSuzuki.My.Resources.Resources._2">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RefaccionesSuzuki.My.Resources.Resources._21">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RefaccionesSuzuki.My.Resources.Resources._3">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RefaccionesSuzuki.My.Resources.Resources._31">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RefaccionesSuzuki.My.Resources.Resources._34">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RefaccionesSuzuki.My.Resources.Resources._4">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RefaccionesSuzuki.My.Resources.Resources._error">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RefaccionesSuzuki.My.Resources.Resources.anadir">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RefaccionesSuzuki.My.Resources.Resources.basura">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RefaccionesSuzuki.My.Resources.Resources.buscar">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RefaccionesSuzuki.My.Resources.Resources.comprobado">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RefaccionesSuzuki.My.Resources.Resources.Configuraciones">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RefaccionesSuzuki.My.Resources.Resources.d_5">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RefaccionesSuzuki.My.Resources.Resources.descarga">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RefaccionesSuzuki.My.Resources.Resources.descarga1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RefaccionesSuzuki.My.Resources.Resources.editar">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RefaccionesSuzuki.My.Resources.Resources.grupo">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RefaccionesSuzuki.My.Resources.Resources.guardar">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RefaccionesSuzuki.My.Resources.Resources.images">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RefaccionesSuzuki.My.Resources.Resources.images__1_">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RefaccionesSuzuki.My.Resources.Resources.loguin">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RefaccionesSuzuki.My.Resources.Resources.moderno_polygonal_desenho_transparente_fundo_1055_2245">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RefaccionesSuzuki.My.Resources.Resources.p1757t6st41hndtpr14tb1elb35d9_details">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RefaccionesSuzuki.My.Resources.Resources.p1757t6st41hndtpr14tb1elb35d9_details1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RefaccionesSuzuki.My.Resources.Resources.Printer">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RefaccionesSuzuki.My.Resources.Resources.refacciones_moto_4">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RefaccionesSuzuki.My.Resources.Resources.refacciones_moto_41">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RefaccionesSuzuki.My.Resources.Resources.reportevisitas">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RefaccionesSuzuki.My.Resources.Resources.salida">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RefaccionesSuzuki.My.Resources.Resources.trabajadores">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:RefaccionesSuzuki.RefaccionessDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:RefaccionesSuzuki.RefaccionessDataSet.AlmacenDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:RefaccionesSuzuki.RefaccionessDataSet.CategoriaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:RefaccionesSuzuki.RefaccionessDataSet.ClienteDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:RefaccionesSuzuki.RefaccionessDataSet.Dir_ClienteDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:RefaccionesSuzuki.RefaccionessDataSet.Dir_EmpDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:RefaccionesSuzuki.RefaccionessDataSet.EmpleadoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:RefaccionesSuzuki.RefaccionessDataSet.Nota_CantDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:RefaccionesSuzuki.RefaccionessDataSet.refaccionDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:RefaccionesSuzuki.RefaccionessDataSet.UsuariosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:RefaccionesSuzuki.RefaccionessDataSet.VentaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:RefaccionesSuzuki.RefaccionessDataSet.generar_comprobanteDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:RefaccionesSuzuki.RefaccionessDataSet.mmostrar_clienteDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:RefaccionesSuzuki.RefaccionessDataSet.mostrar_almacenDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:RefaccionesSuzuki.RefaccionessDataSet.mostrar_categoriaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:RefaccionesSuzuki.RefaccionessDataSet.mostrar_direccionDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:RefaccionesSuzuki.RefaccionessDataSet.mostrar_direccionEmpDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:RefaccionesSuzuki.RefaccionessDataSet.mostrar_empleadoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:RefaccionesSuzuki.RefaccionessDataSet.mostrar_notaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:RefaccionesSuzuki.RefaccionessDataSet.mostrar_refaccionDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:RefaccionesSuzuki.RefaccionessDataSet.mostrar_ventaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:RefaccionesSuzuki.RefaccionessDataSet.validar_usuarioDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:RefaccionesSuzuki.RefaccionessDataSet.AlmacenRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:RefaccionesSuzuki.RefaccionessDataSet.CategoriaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:RefaccionesSuzuki.RefaccionessDataSet.ClienteRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:RefaccionesSuzuki.RefaccionessDataSet.Dir_ClienteRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:RefaccionesSuzuki.RefaccionessDataSet.Dir_EmpRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:RefaccionesSuzuki.RefaccionessDataSet.EmpleadoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:RefaccionesSuzuki.RefaccionessDataSet.Nota_CantRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:RefaccionesSuzuki.RefaccionessDataSet.refaccionRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:RefaccionesSuzuki.RefaccionessDataSet.UsuariosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:RefaccionesSuzuki.RefaccionessDataSet.VentaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:RefaccionesSuzuki.RefaccionessDataSet.generar_comprobanteRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:RefaccionesSuzuki.RefaccionessDataSet.mmostrar_clienteRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:RefaccionesSuzuki.RefaccionessDataSet.mostrar_almacenRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:RefaccionesSuzuki.RefaccionessDataSet.mostrar_categoriaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:RefaccionesSuzuki.RefaccionessDataSet.mostrar_direccionRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:RefaccionesSuzuki.RefaccionessDataSet.mostrar_direccionEmpRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:RefaccionesSuzuki.RefaccionessDataSet.mostrar_empleadoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:RefaccionesSuzuki.RefaccionessDataSet.mostrar_notaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:RefaccionesSuzuki.RefaccionessDataSet.mostrar_refaccionRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:RefaccionesSuzuki.RefaccionessDataSet.mostrar_ventaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:RefaccionesSuzuki.RefaccionessDataSet.validar_usuarioRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:RefaccionesSuzuki.RefaccionessDataSet.AlmacenRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:RefaccionesSuzuki.RefaccionessDataSet.CategoriaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:RefaccionesSuzuki.RefaccionessDataSet.ClienteRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:RefaccionesSuzuki.RefaccionessDataSet.Dir_ClienteRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:RefaccionesSuzuki.RefaccionessDataSet.Dir_EmpRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:RefaccionesSuzuki.RefaccionessDataSet.EmpleadoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:RefaccionesSuzuki.RefaccionessDataSet.Nota_CantRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:RefaccionesSuzuki.RefaccionessDataSet.refaccionRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:RefaccionesSuzuki.RefaccionessDataSet.UsuariosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:RefaccionesSuzuki.RefaccionessDataSet.VentaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:RefaccionesSuzuki.RefaccionessDataSet.generar_comprobanteRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:RefaccionesSuzuki.RefaccionessDataSet.mmostrar_clienteRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:RefaccionesSuzuki.RefaccionessDataSet.mostrar_almacenRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:RefaccionesSuzuki.RefaccionessDataSet.mostrar_categoriaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:RefaccionesSuzuki.RefaccionessDataSet.mostrar_direccionRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:RefaccionesSuzuki.RefaccionessDataSet.mostrar_direccionEmpRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:RefaccionesSuzuki.RefaccionessDataSet.mostrar_empleadoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:RefaccionesSuzuki.RefaccionessDataSet.mostrar_notaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:RefaccionesSuzuki.RefaccionessDataSet.mostrar_refaccionRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:RefaccionesSuzuki.RefaccionessDataSet.mostrar_ventaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:RefaccionesSuzuki.RefaccionessDataSet.validar_usuarioRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:RefaccionesSuzuki.RefaccionessDataSetTableAdapters.AlmacenTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:RefaccionesSuzuki.RefaccionessDataSetTableAdapters.CategoriaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:RefaccionesSuzuki.RefaccionessDataSetTableAdapters.ClienteTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:RefaccionesSuzuki.RefaccionessDataSetTableAdapters.Dir_ClienteTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:RefaccionesSuzuki.RefaccionessDataSetTableAdapters.Dir_EmpTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:RefaccionesSuzuki.RefaccionessDataSetTableAdapters.EmpleadoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:RefaccionesSuzuki.RefaccionessDataSetTableAdapters.Nota_CantTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:RefaccionesSuzuki.RefaccionessDataSetTableAdapters.refaccionTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:RefaccionesSuzuki.RefaccionessDataSetTableAdapters.UsuariosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:RefaccionesSuzuki.RefaccionessDataSetTableAdapters.VentaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:RefaccionesSuzuki.RefaccionessDataSetTableAdapters.generar_comprobanteTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:RefaccionesSuzuki.RefaccionessDataSetTableAdapters.mmostrar_clienteTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:RefaccionesSuzuki.RefaccionessDataSetTableAdapters.mostrar_almacenTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:RefaccionesSuzuki.RefaccionessDataSetTableAdapters.mostrar_categoriaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:RefaccionesSuzuki.RefaccionessDataSetTableAdapters.mostrar_direccionTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:RefaccionesSuzuki.RefaccionessDataSetTableAdapters.mostrar_direccionEmpTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:RefaccionesSuzuki.RefaccionessDataSetTableAdapters.mostrar_empleadoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:RefaccionesSuzuki.RefaccionessDataSetTableAdapters.mostrar_notaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:RefaccionesSuzuki.RefaccionessDataSetTableAdapters.mostrar_refaccionTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:RefaccionesSuzuki.RefaccionessDataSetTableAdapters.mostrar_ventaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:RefaccionesSuzuki.RefaccionessDataSetTableAdapters.validar_usuarioTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:RefaccionesSuzuki.RefaccionessDataSetTableAdapters.QueriesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:RefaccionesSuzuki.RefaccionessDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:RefaccionesSuzuki.RefaccionessDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(RefaccionesSuzuki.RefaccionessDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:RefaccionesSuzuki.RefaccionessDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(RefaccionesSuzuki.RefaccionessDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:RefaccionesSuzuki.RefaccionessDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(RefaccionesSuzuki.RefaccionessDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:RefaccionesSuzuki.RefaccionessDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:RefaccionesSuzuki.RefaccionessDataSetTableAdapters.TableAdapterManager.UpdateAll(RefaccionesSuzuki.RefaccionessDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:RefaccionesSuzuki.RefaccionessDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:RefaccionesSuzuki.RefaccionessDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
